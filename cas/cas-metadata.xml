@@ -4511,6 +4511,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://provost-old.ust.hk"
                     index="1090"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ccz457-iso.ust.hk"
+                    index="1091"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
