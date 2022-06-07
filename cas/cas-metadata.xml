@@ -5201,6 +5201,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://upload.ust.hk/"
                     index="28"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://asset.ust.hk/"
+                    index="29"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
