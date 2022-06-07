@@ -5239,7 +5239,7 @@
                     index="37"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ttapps1.ust.hk/"
+                    Location="http://ttapps1.ust.hk/"
                     index="38"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/login"
@@ -5247,15 +5247,15 @@
                     index="39"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://hkust.beta.instructure.com"
+                    Location="https://hkust.beta.instructure.com/"
                     index="40"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://hkust.instructure.com"
+                    Location="https://hkust.instructure.com/"
                     index="41"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://hkust.test.instructure.com"
+                    Location="https://hkust.test.instructure.com/"
                     index="42"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
