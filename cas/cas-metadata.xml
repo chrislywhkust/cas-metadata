@@ -5239,7 +5239,7 @@
                     index="37"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ttapps.ust.hk/"
+                    Location="https://ttapps1.ust.hk/"
                     index="38"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/login"
