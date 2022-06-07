@@ -5229,31 +5229,31 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iprs.ust.hk/"
                     index="35"/>
-            <SingleLogoutService
+            <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://prscon1a.ust.hk/"
                     index="36"/>
-            <SingleLogoutService
+            <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://prscon2a.ust.hk/"
                     index="37"/>
-            <SingleLogoutService
+            <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ttapps1.ust.hk/"
                     index="38"/>
-            <SingleLogoutService
+            <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://rvc-mtpc.hkust.edu.hk/"
                     index="39"/>
-            <SingleLogoutService
+            <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://hkust.beta.instructure.com/"
                     index="40"/>
-            <SingleLogoutService
+            <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://hkust.instructure.com/"
                     index="41"/>
-            <SingleLogoutService
+            <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://hkust.test.instructure.com/"
                     index="42"/>
