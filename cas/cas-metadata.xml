@@ -5205,6 +5205,58 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://asset.ust.hk/"
                     index="29"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prsmob.ust.hk/"
+                    index="30"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prsmob1a.ust.hk/"
+                    index="31"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prsmob2a.ust.hk/"
+                    index="32"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prsmob3a.ust.hk/"
+                    index="33"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prsmob4a.ust.hk/"
+                    index="34"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iprs.ust.hk/"
+                    index="35"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prscon1a.ust.hk/"
+                    index="36"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prscon2a.ust.hk/"
+                    index="37"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ttapps.ust.hk/"
+                    index="38"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://rvc-mtpc.hkust.edu.hk/"
+                    index="39"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hkust.beta.instructure.com"
+                    index="40"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hkust.instructure.com"
+                    index="41"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hkust.test.instructure.com"
+                    index="42"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
