@@ -4599,6 +4599,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://myaccount.ust.hk/"
                     index="1110"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://stream.hkust.edu.hk/"
+                    index="1111"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://stream.hkust.edu.hk/"
+                    index="1112"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
