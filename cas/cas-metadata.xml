@@ -1401,7 +1401,7 @@
                     index="310"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://fsc-admin.ust.hk/"
+                    Location="http://fsc-admin_ust_hk/"
                     index="311"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
@@ -4737,7 +4737,7 @@
                     index="1144"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://fsc-admin.ust.hk/"
+                    Location="https://fsc-admin_ust_hk/"
                     index="1145"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
@@ -5443,6 +5443,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://envr.ust.hk/"
                     index="6"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://fsc-admin.ust.hk/"
+                    index="7"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://fsc-admin.ust.hk/"
+                    index="8"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
