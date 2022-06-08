@@ -4727,6 +4727,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://dataspace.hkust.edu.hk/"
                     index="1142"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ppol.hkust.edu.hk/"
+                    index="1143"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ppol.ust.hk/"
+                    index="1144"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5243,11 +5251,11 @@
                     index="8"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ppol.hkust.edu.hk/"
+                    Location="https://ppol_hkust.edu.hk/"
                     index="9"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ppol.ust.hk/"
+                    Location="https://ppol_ust.hk/"
                     index="10"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
