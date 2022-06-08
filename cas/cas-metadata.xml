@@ -1265,11 +1265,11 @@
                     index="276"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://envr.ust.hk/"
+                    Location="http://envr_ust_hk/"
                     index="277"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://envr.ust.hk/"
+                    Location="https://envr_ust_hk/"
                     index="278"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
@@ -2905,15 +2905,15 @@
                     index="686"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://pg.ust.hk/"
+                    Location="http://pg_ust_hk/"
                     index="687"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://pg.ust.hk/"
+                    Location="https://pg_ust_hk/"
                     index="688"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://pg.usthk.cn/"
+                    Location="https://pg_usthk_cn/"
                     index="689"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
@@ -4739,6 +4739,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fsc-admin.ust.hk/"
                     index="1145"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ipp.ust.hk/"
+                    index="1146"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ipp.hkust.edu.hk/"
+                    index="1147"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5243,7 +5251,7 @@
                     index="5"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ipp.ust.hk/"
+                    Location="https://ipp_ust_hk/"
                     index="6"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
@@ -5415,6 +5423,26 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ccz457.ust.hk/"
                     index="1"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://pg.ust.hk/"
+                    index="2"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://pg.ust.hk/"
+                    index="3"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://pg_usthk_cn/"
+                    index="4"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://envr.ust.hk/"
+                    index="5"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://envr.ust.hk/"
+                    index="6"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
