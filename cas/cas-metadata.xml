@@ -4647,6 +4647,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ipp.hkust.edu.hk/"
                     index="1123"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://envrpg-backup.ust.hk/"
+                    index="1124"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
