@@ -5437,7 +5437,7 @@
                     index="3"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://pg_usthk_cn/"
+                    Location="https://pg.usthk.cn/"
                     index="4"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
