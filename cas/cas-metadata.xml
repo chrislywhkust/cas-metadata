@@ -4639,6 +4639,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ceisymposium.hkust.edu.hk/"
                     index="1121"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cbeuat-dev.hkust.edu.hk/"
+                    index="1122"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
