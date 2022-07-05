@@ -4805,18 +4805,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ccz457-extra.ust.hk/"
                     index="1"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://hplab.ust.hk/"
-                    index="2"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://maritime.ust.hk/"
-                    index="3"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://ami.ust.hk/"
-                    index="4"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5367,6 +5355,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://qlab.ieda.ust.hk/"
                     index="20"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://hplab.ust.hk/"
+                    index="21"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://maritime.ust.hk/"
+                    index="22"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ami.ust.hk/"
+                    index="23"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
