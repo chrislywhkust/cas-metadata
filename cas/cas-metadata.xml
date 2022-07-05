@@ -5083,6 +5083,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://chembooking-dev.hkust.edu.hk/"
                     index="65"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ngok3fyp-frontend.herokuapp.com/"
+                    index="66"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
