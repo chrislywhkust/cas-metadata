@@ -5087,6 +5087,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ngok3fyp-frontend.herokuapp.com/"
                     index="66"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://smartdoor.ust.hk/"
+                    index="67"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
