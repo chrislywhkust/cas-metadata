@@ -4627,6 +4627,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ptz079.ust.hk/"
                     index="1118"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://global-agreements.hkust.edu.hk/"
+                    index="1119"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
