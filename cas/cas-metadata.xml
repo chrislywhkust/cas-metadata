@@ -5265,6 +5265,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://sfq.ust.hk/"
                     index="39"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iam-api.interfolio.com/"
+                    index="40"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
