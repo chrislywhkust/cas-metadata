@@ -5412,7 +5412,7 @@
         <Extensions>
             <mdattr:EntityAttributes>
                 <saml:Attribute Name="urn:mace:ust.hk:entity:require:affiliation" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:uri">
-                    <saml:AttributeValue>member-or-gzusers</saml:AttributeValue>
+                    <saml:AttributeValue>member-or-gzusers-or-issupport</saml:AttributeValue>
                 </saml:Attribute>
                 <saml:Attribute Name="http://shibboleth.net/ns/attributes/releaseAllValues" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:uri">
                     <saml:AttributeValue>uid</saml:AttributeValue>
