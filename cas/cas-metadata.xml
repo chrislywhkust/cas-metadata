@@ -4643,6 +4643,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://pg-dev.ust.hk/"
                     index="1125"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://lbnx85.ust.hk/"
+                    index="1126"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx85.ust.hk/"
+                    index="1127"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
