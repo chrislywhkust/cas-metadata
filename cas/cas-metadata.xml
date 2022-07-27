@@ -4639,6 +4639,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://lbnx85.ust.hk/"
                     index="1124"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://envflab-backup.ust.hk/"
+                    index="1125"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
