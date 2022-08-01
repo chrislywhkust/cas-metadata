@@ -4643,6 +4643,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://envflab-backup.ust.hk/"
                     index="1125"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://maker.ece.hkust.edu.hk/"
+                    index="1126"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
