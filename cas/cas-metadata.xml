@@ -4647,6 +4647,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://maker.ece.hkust.edu.hk/"
                     index="1126"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://studreq-dev.hkust.edu.hk/"
+                    index="1127"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
