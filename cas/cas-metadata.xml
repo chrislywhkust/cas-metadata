@@ -5297,6 +5297,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cantalk.cle.hkust.edu.hk/"
                     index="41"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://nexusbrn.hkust.edu.hk/"
+                    index="42"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
