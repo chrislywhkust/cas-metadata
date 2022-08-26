@@ -4651,18 +4651,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://nexusbrn.hkust.edu.hk/"
                     index="1128"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://vprd.hkust.edu.hk/"
-                    index="1129"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://vprd.ust.hk/"
-                    index="1130"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://vprd.usthk.cn/"
-                    index="1131"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5524,6 +5512,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ccz457-gzvo.ust.hk/"
                     index="1"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vprd.hkust.edu.hk/"
+                    index="2"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vprd.ust.hk/"
+                    index="3"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vprd.usthk.cn/"
+                    index="4"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
