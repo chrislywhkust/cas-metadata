@@ -4655,6 +4655,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://scholarship-physics.hkust.edu.hk/"
                     index="1129"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://skl-molneurosci.ust.hk/"
+                    index="1130"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
