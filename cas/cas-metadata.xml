@@ -5119,14 +5119,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ngok3fyp-backend.herokuapp.com/"
                     index="65"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://survey.ust.hk/"
-                    index="66"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://survey.uat.ust.hk/"
-                    index="67"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5564,6 +5556,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fytgs.hkust.edu.hk/"
                     index="7"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://survey.ust.hk/"
+                    index="8"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://survey.uat.ust.hk/"
+                    index="9"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
