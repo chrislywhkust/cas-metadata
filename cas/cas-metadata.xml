@@ -4667,6 +4667,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://skl-molneurosci.hkust.edu.hk/"
                     index="1132"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ustbooking-dev.flipsdigital.com/"
+                    index="1133"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
