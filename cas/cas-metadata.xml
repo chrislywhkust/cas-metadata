@@ -4671,6 +4671,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ustbooking-dev.flipsdigital.com/"
                     index="1133"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://praise.hkust.edu.hk/"
+                    index="1134"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
