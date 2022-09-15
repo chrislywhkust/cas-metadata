@@ -5151,6 +5151,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://bmlearn.hkust.edu.hk/"
                     index="68"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://bmphd.hkust.edu.hk/"
+                    index="69"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
