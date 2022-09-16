@@ -4683,6 +4683,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cbe30.hkust.edu.hk/"
                     index="1136"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://phylearn.phys.ust.hk/"
+                    index="1137"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
