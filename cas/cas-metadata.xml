@@ -5620,6 +5620,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://survey.uat.ust.hk/"
                     index="9"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://rvcmedia.ust.hk/"
+                    index="10"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
