@@ -4727,6 +4727,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://daisyyanduprojects.hkust.edu.hk/"
                     index="1147"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ied2022.hkust.edu.hk/"
+                    index="1148"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ied2022.hkust.edu.hk/"
+                    index="1149"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5381,10 +5389,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://eqc-uat.ust.hk/"
                     index="42"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://ied2022.hkust.edu.hk/"
-                    index="43"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
