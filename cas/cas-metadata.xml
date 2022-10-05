@@ -4735,6 +4735,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ied2022.hkust.edu.hk/"
                     index="1149"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://care.hkust.edu.hk/"
+                    index="1150"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
