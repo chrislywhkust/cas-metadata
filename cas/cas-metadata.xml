@@ -4739,6 +4739,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://envf-ienv.hkust.edu.hk/"
                     index="1150"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://maec.hkust.edu.hk/"
+                    index="1151"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
