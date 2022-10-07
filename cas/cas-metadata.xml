@@ -5227,6 +5227,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://paobooking-dev.hkust.edu.hk/"
                     index="70"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://paobooking.hkust.edu.hk/"
+                    index="71"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
