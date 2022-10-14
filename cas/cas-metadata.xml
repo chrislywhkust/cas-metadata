@@ -4743,6 +4743,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://myconnect.hkust.edu.hk/"
                     index="1151"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://mscecon.hkust.edu.hk/"
+                    index="1152"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
