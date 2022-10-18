@@ -5417,6 +5417,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://eqc-uat.ust.hk/"
                     index="42"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://jcsccp.hk/"
+                    index="43"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
