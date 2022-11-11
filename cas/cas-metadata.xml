@@ -4767,6 +4767,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://hkust-anthem.hkust.edu.hk/"
                     index="1157"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://jennyhungproject.hkust.edu.hk/"
+                    index="1158"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
