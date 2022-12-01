@@ -4783,6 +4783,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://dgp.hkust.edu.hk/"
                     index="1161"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx48.ust.hk/"
+                    index="1162"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
