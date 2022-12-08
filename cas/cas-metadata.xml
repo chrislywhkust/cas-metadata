@@ -4954,6 +4954,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://webhost7.ust.hk/"
                     index="15"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx95.ust.hk/"
+                    index="16"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
