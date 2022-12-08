@@ -4795,6 +4795,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://lbnx49.ust.hk/"
                     index="1164"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://143.89.108.121/"
+                    index="1165"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
