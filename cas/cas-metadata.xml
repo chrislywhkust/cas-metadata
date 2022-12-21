@@ -4789,16 +4789,12 @@
                     index="1162"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://lbnx49.ust.hk/"
+                    Location="https://143.89.108.121/"
                     index="1163"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://143.89.108.121/"
-                    index="1164"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://143.89.108.121/"
-                    index="1165"/>
+                    index="1164"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5838,6 +5834,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ccz457-alumni.ust.hk/"
                     index="1"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx49.ust.hk/"
+                    index="2"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
