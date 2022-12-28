@@ -4803,6 +4803,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://lbnx26.ust.hk/"
                     index="1166"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vms.ust.hk/"
+                    index="1167"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
