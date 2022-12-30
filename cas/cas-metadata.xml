@@ -5497,6 +5497,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://register.cle.hkust.edu.hk/"
                     index="44"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://eqc.ust.hk/"
+                    index="45"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
