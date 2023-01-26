@@ -4891,6 +4891,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://gbus-uat.hkust.edu.hk/"
                     index="15"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cdgtpayment.hkust.edu.hk/"
+                    index="16"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
