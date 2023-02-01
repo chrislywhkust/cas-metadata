@@ -5323,6 +5323,30 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sdacs.ust.hk/"
                     index="74"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hroffice.hkust.edu.hk/"
+                    index="75"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hroffice1.hkust.edu.hk/"
+                    index="76"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hroffice2.hkust.edu.hk/"
+                    index="77"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hroffice3.hkust.edu.hk/"
+                    index="78"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hroffice4.hkust.edu.hk/"
+                    index="79"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://pressrch.hkust.edu.hk/"
+                    index="80"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
