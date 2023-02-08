@@ -5459,7 +5459,7 @@
                     index="23"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://asset-devx.ust.hk/"
+                    Location="https://asset-dev.ust.hk/"
                     index="24"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
