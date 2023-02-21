@@ -5892,6 +5892,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://grouper-dev.ust.hk:8080/"
                     index="22"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://grouper-dev.ust.hk/"
+                    index="23"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
