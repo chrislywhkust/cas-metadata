@@ -4819,6 +4819,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://brand.hkust.edu.hk/"
                     index="1170"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://tisag-reg.hkust.edu.hk/"
+                    index="1171"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
