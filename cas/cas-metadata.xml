@@ -5585,14 +5585,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cra.hkust.edu.hk/"
                     index="47"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://grouper-dev.ust.hk/"
-                    index="48"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://grouper-dev.ust.hk:8080/"
-                    index="49"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5892,6 +5884,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://logo.hkust.edu.hk/"
                     index="20"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://grouper-dev.ust.hk/"
+                    index="21"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://grouper-dev.ust.hk:8080/"
+                    index="22"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
