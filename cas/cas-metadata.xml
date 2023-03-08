@@ -4811,6 +4811,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://rae2026-dev.ust.hk/"
                     index="1168"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ustmtpc-dev.flipsdigital.com/"
+                    index="1169"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
