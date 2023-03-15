@@ -4907,6 +4907,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://oidr.hkust.edu.hk/"
                     index="17"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://chembooking.hkust.edu.hk/"
+                    index="18"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
