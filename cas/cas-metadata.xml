@@ -4823,6 +4823,26 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://device.hkust.edu.hk/"
                     index="1171"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx92.ust.hk/"
+                    index="1172"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx93.ust.hk/"
+                    index="1173"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx94.ust.hk/"
+                    index="1174"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx97.ust.hk/"
+                    index="1175"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx96.ust.hk/"
+                    index="1176"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
