@@ -5605,6 +5605,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cra.hkust.edu.hk/"
                     index="47"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://schina.hkust.edu.hk/"
+                    index="48"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
