@@ -5621,6 +5621,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://jcsccp.hk/"
                     index="50"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://innovatorinsights.hkust.edu.hk/"
+                    index="51"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
