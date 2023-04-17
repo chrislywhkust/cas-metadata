@@ -4843,6 +4843,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cwwf2023.hkust.edu.hk/"
                     index="1176"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://innovatorinsights.hkust.edu.hk/"
+                    index="1177"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5026,6 +5030,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://digitalhumanities.hkust.edu.hk/"
                     index="17"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://afd.hkust.edu.hk/"
+                    index="18"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5407,6 +5415,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://sfq-dev.ust.hk/"
                     index="85"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ust2023-uat.eventionapp.com/"
+                    index="86"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ust2023.eventionapp.com/"
+                    index="87"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5621,10 +5637,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://jcsccp.hk/"
                     index="50"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://innovatorinsights.hkust.edu.hk/"
-                    index="51"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
