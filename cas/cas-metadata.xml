@@ -5423,6 +5423,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ust2023.eventionapp.com/"
                     index="87"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://schina.hkust.edu.hk/"
+                    index="88"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5627,16 +5631,12 @@
                     index="47"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://schina.hkust.edu.hk/"
+                    Location="https://ceweb.hkust.edu.hk/"
                     index="48"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ceweb.hkust.edu.hk/"
-                    index="49"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://jcsccp.hk/"
-                    index="50"/>
+                    index="49"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
