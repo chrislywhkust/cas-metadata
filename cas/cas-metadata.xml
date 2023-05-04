@@ -4851,6 +4851,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ucoreview.ust.hk/"
                     index="1178"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://bibu.hkust.edu.hk/"
+                    index="1179"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
