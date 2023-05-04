@@ -4855,6 +4855,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://bibu.hkust.edu.hk/"
                     index="1179"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://30for30talentacquisition.hkust.edu.hk/"
+                    index="1180"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://gzvicnews.hkust.edu.hk/"
+                    index="1181"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
