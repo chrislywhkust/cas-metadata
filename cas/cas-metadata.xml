@@ -4863,6 +4863,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://gzvicnews.hkust.edu.hk/"
                     index="1181"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cdgtpayment.hkust.edu.hk/"
+                    index="1182"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://summerinstitutepayment.hkust.edu.hk/"
+                    index="1183"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -4945,20 +4953,16 @@
                     index="15"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://cdgtpayment.hkust.edu.hk/"
+                    Location="https://oidr.hkust.edu.hk/"
                     index="16"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://oidr.hkust.edu.hk/"
+                    Location="https://chembooking.hkust.edu.hk/"
                     index="17"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://chembooking.hkust.edu.hk/"
-                    index="18"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://chem-msc.hkust.edu.hk/"
-                    index="19"/>
+                    index="18"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
