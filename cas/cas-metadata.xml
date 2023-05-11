@@ -4871,6 +4871,26 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://summerinstitutepayment.hkust.edu.hk/"
                     index="1183"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx64.ust.hk/"
+                    index="1184"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx65.ust.hk/"
+                    index="1185"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx66.ust.hk/"
+                    index="1186"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx67.ust.hk/"
+                    index="1187"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx68.ust.hk/"
+                    index="1188"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
