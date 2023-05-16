@@ -4979,6 +4979,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://chem-msc.hkust.edu.hk/"
                     index="18"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sbmalumevents.ust.hk/"
+                    index="19"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sbmepayment.ust.hk/"
+                    index="20"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
