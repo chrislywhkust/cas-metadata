@@ -4887,6 +4887,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://lbnx68.ust.hk/"
                     index="1187"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://edm.hkust.edu.hk/"
+                    index="1188"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -4987,6 +4991,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sbmepayment.ust.hk/"
                     index="20"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://pdev6800z-dev.hkust.edu.hk/"
+                    index="21"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
