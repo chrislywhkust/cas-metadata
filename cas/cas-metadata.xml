@@ -4891,6 +4891,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://edm.hkust.edu.hk/"
                     index="1188"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://shib-dev1.ust.hk/"
+                    index="1189"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
