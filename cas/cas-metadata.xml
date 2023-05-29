@@ -5491,6 +5491,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://schina.hkust.edu.hk/"
                     index="88"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cnerc-cthmp.hkust.edu.hk/"
+                    index="89"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
