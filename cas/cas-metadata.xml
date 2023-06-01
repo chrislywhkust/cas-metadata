@@ -5864,28 +5864,16 @@
                     index="1"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://sisp.hkust-gz.edu.cn/"
+                    Location="https://sisprod.psft.ust.hk/"
                     index="2"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://w5.hkust-gz.edu.cn/"
+                    Location="https://ss.ust.hk/"
                     index="3"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://w3.hkust-gz.edu.cn/"
-                    index="4"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://sisprod.psft.ust.hk/"
-                    index="5"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ss.ust.hk/"
-                    index="6"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://admms66.ust.hk/"
-                    index="7"/>
+                    index="4"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
