@@ -4907,6 +4907,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fumin-home.hkust.edu.hk/"
                     index="1192"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sci-for-lunch-reg.hkust.edu.hk/"
+                    index="1193"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5868,7 +5872,7 @@
         <SPSSODescriptor protocolSupportEnumeration="https://www.apereo.org/cas/protocol">
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://ccz457-gziso.ust.hk/"
+                    Location="http://ccz457-gziso-old.ust.hk/"
                     index="1"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
