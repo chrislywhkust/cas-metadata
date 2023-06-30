@@ -6143,9 +6143,9 @@
                     <saml:AttributeValue>admisusers-or-gzusers-or-issupport</saml:AttributeValue>
                 </saml:Attribute>
                 <saml:Attribute Name="http://shibboleth.net/ns/attributes/releaseAllValues" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:uri">
-                    <saml:AttributeValue>uid</saml:AttributeValue>
                     <saml:AttributeValue>name</saml:AttributeValue>
                     <saml:AttributeValue>mail</saml:AttributeValue>
+                    <saml:AttributeValue>departmentNumber</saml:AttributeValue>
                     <saml:AttributeValue>eduPersonAffiliation</saml:AttributeValue>
                     <saml:AttributeValue>voPersonAffiliation</saml:AttributeValue>
                     <saml:AttributeValue>employeeNumber</saml:AttributeValue>
