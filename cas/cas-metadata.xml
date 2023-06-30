@@ -6146,6 +6146,9 @@
                     <saml:AttributeValue>uid</saml:AttributeValue>
                     <saml:AttributeValue>name</saml:AttributeValue>
                     <saml:AttributeValue>mail</saml:AttributeValue>
+                    <saml:AttributeValue>eduPersonAffiliation</saml:AttributeValue>
+                    <saml:AttributeValue>voPersonAffiliation</saml:AttributeValue>
+                    <saml:AttributeValue>employeeNumber</saml:AttributeValue>
                 </saml:Attribute>
             </mdattr:EntityAttributes>
         </Extensions>
