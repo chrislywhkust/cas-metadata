@@ -4919,6 +4919,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://laundry.ust.hk/"
                     index="1198"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iatbc2023.hkust.edu.hk/"
+                    index="1199"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
