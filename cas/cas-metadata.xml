@@ -42,32 +42,28 @@
                     index="6"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://ss3.ust.hk/"
+                    Location="https://w10.ab.ust.hk:8443/"
                     index="7"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://w10.ab.ust.hk:8443/"
+                    Location="https://w9.ab.ust.hk:443/"
                     index="8"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://w9.ab.ust.hk:443/"
+                    Location="https://w6.ab.ust.hk/"
                     index="9"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://w6.ab.ust.hk/"
+                    Location="http://admms62.ust.hk/"
                     index="10"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://admms62.ust.hk/"
+                    Location="http://ccz457-iso.ust.hk/"
                     index="11"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://ccz457-iso.ust.hk/"
-                    index="12"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://gss.congregation.hkust.edu.hk/"
-                    index="13"/>
+                    index="12"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6194,6 +6190,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://w5.ab.ust.hk:443/"
                     index="6"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ss3.ust.hk/"
+                    index="7"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
