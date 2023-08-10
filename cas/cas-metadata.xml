@@ -3065,7 +3065,7 @@
                     index="735"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://rae2020-dev.ust.hk/"
+                    Location="https://rae2026-dryrun.ust.hk/"
                     index="736"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
@@ -4919,6 +4919,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iatbc2023.hkust.edu.hk/"
                     index="1199"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://oglsupport.ust.hk/"
+                    index="1200"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5523,6 +5527,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cnerc-cthmp.hkust.edu.hk/"
                     index="89"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sdacsadmin.ust.hk/"
+                    index="90"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
