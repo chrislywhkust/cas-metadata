@@ -4923,6 +4923,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://oglsupport.ust.hk/"
                     index="1200"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://SFIVS.ust.hk/"
+                    index="1201"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://SFIVS.hkust.edu.hk/"
+                    index="1202"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
