@@ -4931,6 +4931,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://SFIVS.hkust.edu.hk/"
                     index="1202"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://emmh.hkust.edu.hk/"
+                    index="1203"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
