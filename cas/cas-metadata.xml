@@ -6130,6 +6130,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://vmsvideo.ust.hk/"
                     index="6"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://docker-aluat01.ust.hk/"
+                    index="7"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
