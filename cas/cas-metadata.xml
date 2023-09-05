@@ -5047,6 +5047,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://pdev6800z.hkust.edu.hk/"
                     index="24"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://bmvh162.ust.hk/"
+                    index="25"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
