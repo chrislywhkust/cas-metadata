@@ -6134,22 +6134,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://vmsvideo.ust.hk/"
                     index="6"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://docker-aluat01.ust.hk/"
-                    index="7"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://docker-aluat01.ust.hk/"
-                    index="8"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="http://gss.congregation.hkust.edu.hk/"
-                    index="9"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://gss.congregation.hkust.edu.hk/"
-                    index="10"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6234,6 +6218,48 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ss3.ust.hk/"
                     index="7"/>
+            <SingleLogoutService
+                    Binding="https://www.apereo.org/cas/protocol/logout"
+                    Location="urn:mace:shibboleth:profile:CAS:logout"/>
+        </SPSSODescriptor>
+    </EntityDescriptor>
+    <EntityDescriptor entityID="https://cas_ust_hk:8017/">
+        <Extensions>
+            <mdattr:EntityAttributes>
+                <saml:Attribute Name="urn:mace:ust.hk:entity:require:affiliation" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:uri">
+                    <saml:AttributeValue>member-or-alum</saml:AttributeValue>
+                </saml:Attribute>
+                <saml:Attribute Name="http://shibboleth.net/ns/attributes/releaseAllValues" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:uri">
+                    <saml:AttributeValue>name</saml:AttributeValue>
+                    <saml:AttributeValue>mail</saml:AttributeValue>
+                    <saml:AttributeValue>departmentNumber</saml:AttributeValue>
+                    <saml:AttributeValue>eduPersonAffiliation</saml:AttributeValue>
+                    <saml:AttributeValue>voPersonAffiliation</saml:AttributeValue>
+                    <saml:AttributeValue>employeeNumber</saml:AttributeValue>
+                </saml:Attribute>
+            </mdattr:EntityAttributes>
+        </Extensions>
+        <SPSSODescriptor protocolSupportEnumeration="https://www.apereo.org/cas/protocol">
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ccz457-alumni-id.ust.hk/"
+                    index="1"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://docker-aluat01.ust.hk/"
+                    index="2"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://docker-aluat01.ust.hk/"
+                    index="3"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://gss.congregation.hkust.edu.hk/"
+                    index="4"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://gss.congregation.hkust.edu.hk/"
+                    index="5"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
