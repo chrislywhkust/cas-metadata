@@ -5906,10 +5906,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://ccz457-gziso-old.ust.hk/"
                     index="1"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://admms66.ust.hk/"
-                    index="2"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6218,6 +6214,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ss3.ust.hk/"
                     index="7"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://admms66.ust.hk/"
+                    index="8"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
