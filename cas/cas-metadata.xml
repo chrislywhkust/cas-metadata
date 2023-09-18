@@ -4931,6 +4931,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://geco.hkust.edu.hk/"
                     index="1203"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://pomshk2024.hkust.edu.hk/"
+                    index="1204"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5051,6 +5055,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://bmvh162.ust.hk/"
                     index="25"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hkust-ipfolio--prt.sandbox.my.salesforce.com/"
+                    index="26"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
