@@ -5067,6 +5067,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://hkust-ipfolio--prt.sandbox.my.salesforce.com/"
                     index="26"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://econ-payment.hkust.edu.hk/"
+                    index="27"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
