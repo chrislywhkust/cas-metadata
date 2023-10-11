@@ -4947,6 +4947,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://aisnewsletter.hkust.edu.hk/"
                     index="1207"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://17dsbs.hkust.edu.hk/"
+                    index="1208"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
