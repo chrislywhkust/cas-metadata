@@ -4955,6 +4955,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sciencefocus.hkust.edu.hk/"
                     index="1209"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://mae1.hkust.edu.hk/"
+                    index="1210"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
