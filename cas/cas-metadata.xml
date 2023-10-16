@@ -4959,6 +4959,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://mae1.hkust.edu.hk/"
                     index="1210"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ai-newhorizons2023-reg.com/"
+                    index="1211"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ai-newhorizons2023.com/"
+                    index="1212"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://pomshk2024-reg.hkust.edu.hk/"
+                    index="1213"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
