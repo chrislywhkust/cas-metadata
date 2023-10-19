@@ -5591,6 +5591,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sdacsadmin.ust.hk/"
                     index="90"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://tsrs.ust.hk/"
+                    index="91"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
