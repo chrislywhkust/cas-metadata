@@ -5805,6 +5805,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://jcsccp.hk/"
                     index="49"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://earthhk.hkust.edu.hk/"
+                    index="50"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
