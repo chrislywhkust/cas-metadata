@@ -4975,6 +4975,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://csoconnect.ust.hk/"
                     index="1214"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sqml.hkust.edu.hk/"
+                    index="1215"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
