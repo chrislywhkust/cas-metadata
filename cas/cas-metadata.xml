@@ -5603,6 +5603,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://tsrs.ust.hk/"
                     index="91"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://tsrs-asset.ust.hk/"
+                    index="92"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
