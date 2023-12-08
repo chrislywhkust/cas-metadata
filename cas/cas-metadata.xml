@@ -4979,6 +4979,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sqml.hkust.edu.hk/"
                     index="1215"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://steamfestival.hkust.edu.hk/"
+                    index="1216"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
