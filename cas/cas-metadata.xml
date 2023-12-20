@@ -4971,6 +4971,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fbs.hkust.edu.hk/"
                     index="1213"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sight2023.hkust.edu.hk/"
+                    index="1214"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://mbahomecoming.hkust.edu.hk/"
+                    index="1215"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ism25.hkust.edu.hk/"
+                    index="1216"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
