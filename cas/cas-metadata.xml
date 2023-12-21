@@ -4983,6 +4983,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ism25.hkust.edu.hk/"
                     index="1216"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sea.hkust.edu.hk/"
+                    index="1217"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5623,6 +5627,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://hoodiedesign.hkust.edu.hk/"
                     index="94"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://dualmsc-seng.hkust.edu.hk/"
+                    index="95"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6242,6 +6250,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://vmsvideo.ust.hk/"
                     index="6"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://fcuser.hkust.edu.hk/"
+                    index="7"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
