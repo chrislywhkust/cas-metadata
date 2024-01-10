@@ -4979,6 +4979,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cmzsys.hkust.edu.hk/"
                     index="1217"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://counseluat.ust.hk/"
+                    index="1218"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5837,6 +5841,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://earthhk.hkust.edu.hk/"
                     index="50"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://17dsbs-reg.ust.hk/"
+                    index="51"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
