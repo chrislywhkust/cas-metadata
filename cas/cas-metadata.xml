@@ -5111,6 +5111,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://econ-payment.hkust.edu.hk/"
                     index="27"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://bm.hkust.edu.hk/"
+                    index="28"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
