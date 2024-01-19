@@ -4979,6 +4979,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://pgprogram-seng.hkust.edu.hk/"
                     index="1217"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://pgprogram-seng.hkust.edu.hk:444/"
+                    index="1218"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://pgprogram-seng.hkust.edu.hk:446/"
+                    index="1219"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
