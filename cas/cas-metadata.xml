@@ -4991,6 +4991,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://free-portrait-services.hkust.edu.hk/"
                     index="1220"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://https://7raqm.hkust.edu.hk/"
+                    index="1221"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
