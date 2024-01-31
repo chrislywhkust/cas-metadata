@@ -5849,6 +5849,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://usthing.xyz/"
                     index="52"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://archives.hkust.edu.hk/"
+                    index="53"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
