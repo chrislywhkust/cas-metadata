@@ -4979,6 +4979,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://c5.hkust.edu.hk/"
                     index="1217"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://samusical.hkust.edu.hk/"
+                    index="1218"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
