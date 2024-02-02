@@ -4983,6 +4983,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://samusical.hkust.edu.hk/"
                     index="1218"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://seng-ecard.hkust.edu.hk/"
+                    index="1219"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
