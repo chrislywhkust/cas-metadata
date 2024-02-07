@@ -5869,6 +5869,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://archives.hkust.edu.hk/"
                     index="53"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cfp.ust.hk/"
+                    index="54"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cfp.hkust.edu.hk/"
+                    index="55"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
