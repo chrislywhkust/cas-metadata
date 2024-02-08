@@ -4991,6 +4991,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://event-reg.hkust.edu.hk/"
                     index="1220"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://studenthousingsuppt_uat.hkust.edu.hk/"
+                    index="1221"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vevent-uat.hkust.edu.hk/"
+                    index="1222"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
