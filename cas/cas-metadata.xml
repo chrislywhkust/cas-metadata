@@ -4999,6 +4999,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://studenthousingsuppt-uat.hkust.edu.hk/"
                     index="1222"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ieda30a-reg.hkust.edu.hk/"
+                    index="1223"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
