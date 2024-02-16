@@ -5003,6 +5003,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ieda30a-reg.hkust.edu.hk/"
                     index="1223"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://apbec.hkust.edu.hk/"
+                    index="1224"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
