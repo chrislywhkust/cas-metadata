@@ -5015,6 +5015,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://shbs.hkust.edu.hk/"
                     index="1226"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://seng-dev.hkust.edu.hk/"
+                    index="1227"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
