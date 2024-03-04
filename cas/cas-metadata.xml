@@ -5909,6 +5909,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://envf.ust.hk/"
                     index="57"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://17dsbs-reg.hkust.edu.hk/"
+                    index="58"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
