@@ -5011,6 +5011,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://msr.math.hkust.edu.hk/"
                     index="1225"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iwd.hkust.edu.hk/"
+                    index="1226"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
