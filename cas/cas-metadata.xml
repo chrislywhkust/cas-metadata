@@ -5011,6 +5011,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iwd.hkust.edu.hk/"
                     index="1225"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://fsc-admin.hkust.edu.hk/"
+                    index="1226"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://seatplan-dev.hkust.edu.hk/"
+                    index="1227"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
