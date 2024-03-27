@@ -5019,6 +5019,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://seatplan-dev.hkust.edu.hk/"
                     index="1227"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://rae2026.ust.hk/"
+                    index="1228"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
