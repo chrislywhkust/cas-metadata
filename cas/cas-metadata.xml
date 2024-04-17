@@ -5023,6 +5023,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://rae2026.ust.hk/"
                     index="1228"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lab-portal.hkust.edu.hk/"
+                    index="1229"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5923,24 +5927,20 @@
                     index="55"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://lab-portal.hkust.edu.hk/"
+                    Location="https://envf.ust.hk/"
                     index="56"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://envf.ust.hk/"
+                    Location="https://17dsbs-reg.hkust.edu.hk/"
                     index="57"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://17dsbs-reg.hkust.edu.hk/"
+                    Location="https://intranet-lifs.hkust.edu.hk/"
                     index="58"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://intranet-lifs.hkust.edu.hk/"
-                    index="59"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://drap.hkust.edu.hk/"
-                    index="60"/>
+                    index="59"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
