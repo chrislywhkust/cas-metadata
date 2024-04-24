@@ -5699,6 +5699,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://raqm.hkust.edu.hk/"
                     index="96"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://georisk.hkust.edu.hk/"
+                    index="97"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
