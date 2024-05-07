@@ -5035,6 +5035,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://canvasintupg.ust.hk/"
                     index="1231"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://nsoreg.hkust.edu.hk/"
+                    index="1232"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
