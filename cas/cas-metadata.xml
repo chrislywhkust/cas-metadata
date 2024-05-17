@@ -5043,6 +5043,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ieda-new.ust.hk/"
                     index="1233"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://rae2020-dryrun.ust.hk/"
+                    index="1234"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5715,6 +5719,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://www.sengext.hkust.edu.hk/"
                     index="98"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://bmeconf.hkust.edu.hk/"
+                    index="99"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
