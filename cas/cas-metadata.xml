@@ -5047,6 +5047,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://rae2020-dryrun.ust.hk/"
                     index="1234"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://rae2020-dev.ust.hk/"
+                    index="1235"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://climate.hkust.edu.hk/"
+                    index="1236"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
