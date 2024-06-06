@@ -5055,6 +5055,34 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://climate.hkust.edu.hk/"
                     index="1236"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://core-earthhk.hkust.edu.hk/"
+                    index="1237"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://career-new.ust.hk/"
+                    index="1238"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://careerdev-new.ust.hk/"
+                    index="1239"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vfair-new.ust.hk/"
+                    index="1240"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vfairdev-new.ust.hk/"
+                    index="1241"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vmosaic.hkust.edu.hk/"
+                    index="1242"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://vmosaic.careerdev.hkust.edu.hk/"
+                    index="1243"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
