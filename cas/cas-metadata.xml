@@ -5083,6 +5083,26 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://vmosaic.careerdev.hkust.edu.hk/"
                     index="1243"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://webwork0.math.ust.hk/"
+                    index="1244"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ieda.hkust.edu.hk/"
+                    index="1245"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://felab.ut.hk/"
+                    index="1246"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://maritime.ust.hk/"
+                    index="1247"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://qlab.ieda.ust.hk/"
+                    index="1248"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5759,6 +5779,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://bmeconf.hkust.edu.hk/"
                     index="99"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://dhsearch-dev.ust.hk/"
+                    index="100"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6009,6 +6033,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://drap.hkust.edu.hk/"
                     index="59"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://zenglab.hkust.edu.hk/"
+                    index="60"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
