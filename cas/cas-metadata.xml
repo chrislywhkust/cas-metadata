@@ -5103,6 +5103,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://qlab.ieda.ust.hk/"
                     index="1248"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ias.ust.hk/"
+                    index="1249"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://shbs.ust.hk/"
+                    index="1250"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
