@@ -5795,6 +5795,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://dhsearch-dev.ust.hk/"
                     index="101"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://csservice.cse.ust.hk/"
+                    index="102"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
