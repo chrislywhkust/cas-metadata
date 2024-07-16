@@ -6069,6 +6069,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://qianlab.ust.hk/"
                     index="61"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://qianlab.hkust.edu.hk/"
+                    index="62"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
