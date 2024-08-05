@@ -6085,6 +6085,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://qianlab.hkust.edu.hk/"
                     index="62"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://particle-physics.hkust.edu.hk/"
+                    index="63"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
