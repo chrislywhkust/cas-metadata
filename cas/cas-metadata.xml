@@ -5123,6 +5123,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://CARSapi.hkust.edu.hk/"
                     index="1253"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sandpainting-dev.hkust.edu.hk/"
+                    index="1254"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sandpainting.hkust.edu.hk/"
+                    index="1255"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://emia2200.hkust.edu.hk/"
+                    index="1256"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
