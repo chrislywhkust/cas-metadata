@@ -5159,6 +5159,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://campuscinema.hkust.edu.hk/"
                     index="1261"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ucoreview-uat-new.ust.hk/"
+                    index="1262"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://uceisr-new.ust.hk/"
+                    index="1263"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ucoreview-uat-new.ust.hk/"
+                    index="1264"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
