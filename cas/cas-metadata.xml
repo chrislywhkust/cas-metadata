@@ -5179,6 +5179,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://midpoint-dev3.vm.st365.ust.hk/"
                     index="1266"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sats.ust.hk/"
+                    index="1267"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
