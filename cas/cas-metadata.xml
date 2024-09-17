@@ -5183,6 +5183,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sats.ust.hk/"
                     index="1267"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://yuegroup.hkust.edu.hk/"
+                    index="1268"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6161,6 +6165,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://particle-physics.hkust.edu.hk/"
                     index="63"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://alumcommons.hkust.edu.hk/"
+                    index="64"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
