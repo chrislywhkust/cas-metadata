@@ -6187,12 +6187,8 @@
                     index="63"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://alumcommons.hkust.edu.hk/"
-                    index="64"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://aesc.hkust.edu.hk/"
-                    index="65"/>
+                    index="64"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6658,6 +6654,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fbs.hkust.edu.hk/"
                     index="8"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://alumcommons.hkust.edu.hk/"
+                    index="9"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
