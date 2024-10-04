@@ -5207,6 +5207,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ccqs.hkust.edu.hk/"
                     index="1273"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://campus-swap.hkust.edu.hk/"
+                    index="1274"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
