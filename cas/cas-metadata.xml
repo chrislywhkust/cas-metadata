@@ -5215,6 +5215,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://awards.ust.hk/"
                     index="1275"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://skl.hkust.edu.hk/"
+                    index="1276"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
