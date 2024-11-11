@@ -5227,6 +5227,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://stlists.ust.hk/"
                     index="1278"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://itso-dev.hkust.edu.hk/"
+                    index="1279"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://itso.hkust.edu.hk/"
+                    index="1280"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
