@@ -5482,6 +5482,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://imz411.ust.hk/"
                     index="23"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://trs2024.hkust.edu.hk/"
+                    index="24"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
