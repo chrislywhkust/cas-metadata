@@ -5235,6 +5235,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://itso.hkust.edu.hk/"
                     index="1280"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ucoreview-new.ust.hk/"
+                    index="1281"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
