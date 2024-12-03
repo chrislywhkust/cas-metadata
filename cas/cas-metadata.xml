@@ -5243,6 +5243,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://lms.hkust.edu.hk/"
                     index="1282"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ucoreview-uat.ust.hk/"
+                    index="1283"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ucoreview-dev.ust.hk/"
+                    index="1284"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6241,6 +6249,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://aesc.hkust.edu.hk/"
                     index="64"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ost.hkust.edu.hk/"
+                    index="65"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
