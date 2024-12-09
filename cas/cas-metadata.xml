@@ -5251,6 +5251,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ucoreview-dev.ust.hk/"
                     index="1284"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://simplyvoting.hkust.edu.hk/"
+                    index="1285"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
