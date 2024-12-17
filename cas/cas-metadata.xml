@@ -5255,6 +5255,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://simplyvoting.hkust.edu.hk/"
                     index="1285"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://itsc2024.hkust.edu.hk/"
+                    index="1286"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iso2024.hkust.edu.hk/"
+                    index="1287"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
