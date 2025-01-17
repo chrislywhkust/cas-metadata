@@ -5267,6 +5267,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://oidr.hkust.edu.hk/"
                     index="1288"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://chauffeur.ust.hk/"
+                    index="1289"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6277,6 +6281,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://physics.hkust.edu.hk/"
                     index="66"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://recruitment-physics.hkust.edu.hk/"
+                    index="67"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
