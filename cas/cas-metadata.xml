@@ -6285,6 +6285,26 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://recruitment-physics.hkust.edu.hk/"
                     index="67"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://polymer-physics.hkust.edu.hk/"
+                    index="68"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://stm-lab-physics.hkust.edu.hk/"
+                    index="69"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://seminars-physics.hkust.edu.hk/"
+                    index="70"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://statistical-physics.hkust.edu.hk/"
+                    index="71"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://demonstration-physics.hkust.edu.hk/"
+                    index="72"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
