@@ -6305,6 +6305,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://demonstration-physics.hkust.edu.hk/"
                     index="72"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://teaching-physics.hkust.edu.hk/"
+                    index="73"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://feisunlab.hkust.edu.hk/"
+                    index="74"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
