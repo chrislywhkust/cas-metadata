@@ -5283,6 +5283,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://bmvh104.ust.hk/"
                     index="1292"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://my-ai-faq.hkust.edu.hk/"
+                    index="1293"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
