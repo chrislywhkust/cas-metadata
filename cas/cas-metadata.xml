@@ -5287,6 +5287,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://my-ai-faq.hkust.edu.hk/"
                     index="1293"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://dsms.hkust.edu.hk/"
+                    index="1294"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
