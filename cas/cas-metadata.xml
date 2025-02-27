@@ -6329,6 +6329,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://feisunlab.hkust.edu.hk/"
                     index="74"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://msphy.hkust.edu.hk/"
+                    index="75"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
