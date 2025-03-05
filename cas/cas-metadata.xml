@@ -5295,6 +5295,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://bmh.hkust.edu.hk/"
                     index="1295"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://prog-crs-2025.ust.hk/"
+                    index="1296"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
