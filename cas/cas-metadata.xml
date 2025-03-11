@@ -6031,6 +6031,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ustlfsci.hkust.edu.hk/"
                     index="106"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://laerc.ust.edu.hk/"
+                    index="107"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
