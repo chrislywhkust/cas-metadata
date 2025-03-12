@@ -6033,7 +6033,7 @@
                     index="106"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://laerc.ust.edu.hk/"
+                    Location="https://laerc.hkust.edu.hk/"
                     index="107"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
