@@ -6353,6 +6353,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://amc.hkust.edu.hk/"
                     index="76"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lbnx13.ust.hk/"
+                    index="77"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
