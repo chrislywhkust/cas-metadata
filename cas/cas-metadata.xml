@@ -5303,6 +5303,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://memorial.hkust.edu.hk/"
                     index="1297"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://btec.hkust.edu.hk/"
+                    index="1298"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
