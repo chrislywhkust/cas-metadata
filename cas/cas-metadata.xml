@@ -5307,6 +5307,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://btec.hkust.edu.hk/"
                     index="1298"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://student-voices.cle.hkust.edu.hk/"
+                    index="1299"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cantonese-listening.cle.hkust.edu.hk/"
+                    index="1300"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
