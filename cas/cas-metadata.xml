@@ -5315,6 +5315,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cantonese-listening.cle.hkust.edu.hk/"
                     index="1300"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://msgf-nyustern.hkust.edu.hk/"
+                    index="1301"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
