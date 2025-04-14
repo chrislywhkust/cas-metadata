@@ -5451,6 +5451,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://aging.hkust.edu.hk/"
                     index="28"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://2025symposiumoftcm.hkust.edu.hk/"
+                    index="29"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
