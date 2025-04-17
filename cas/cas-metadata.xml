@@ -5319,6 +5319,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://msgf-nyustern.hkust.edu.hk/"
                     index="1301"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://project1.cle.hkust.edu.hk/"
+                    index="1302"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
