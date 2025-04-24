@@ -5323,6 +5323,30 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://project1.cle.hkust.edu.hk/"
                     index="1302"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://creativewriting.hkust.edu.hk/"
+                    index="1303"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://fromwithin.hkust.edu.hk/"
+                    index="1304"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://philsci.hkust.edu.hk/"
+                    index="1305"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sms3-dev.is-itsc.ust.hk/"
+                    index="1306"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sms3-dev.is-itsc.ust.hk:8443/"
+                    index="1307"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sms3-dev.is-itsc.ust.hk:9000/"
+                    index="1308"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
