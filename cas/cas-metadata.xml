@@ -5602,6 +5602,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://mdmf-eme0148.ust.hk/"
                     index="25"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://wip.aimpd.com.hk/"
+                    index="26"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://wip.aimpd.i234.me/"
+                    index="27"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
