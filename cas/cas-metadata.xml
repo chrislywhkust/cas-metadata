@@ -5347,6 +5347,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sms3-dev.is-itsc.ust.hk:9000/"
                     index="1308"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://imin.cle.hkust.edu.hk/"
+                    index="1309"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
