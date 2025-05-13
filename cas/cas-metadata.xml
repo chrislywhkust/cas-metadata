@@ -5289,68 +5289,64 @@
                     index="1293"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://dsms.hkust.edu.hk/"
+                    Location="https://bmh.hkust.edu.hk/"
                     index="1294"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://bmh.hkust.edu.hk/"
+                    Location="https://prog-crs-2025.ust.hk/"
                     index="1295"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://prog-crs-2025.ust.hk/"
+                    Location="https://memorial.hkust.edu.hk/"
                     index="1296"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://memorial.hkust.edu.hk/"
+                    Location="https://btec.hkust.edu.hk/"
                     index="1297"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://btec.hkust.edu.hk/"
+                    Location="https://student-voices.cle.hkust.edu.hk/"
                     index="1298"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://student-voices.cle.hkust.edu.hk/"
+                    Location="https://cantonese-listening.cle.hkust.edu.hk/"
                     index="1299"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://cantonese-listening.cle.hkust.edu.hk/"
+                    Location="https://msgf-nyustern.hkust.edu.hk/"
                     index="1300"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://msgf-nyustern.hkust.edu.hk/"
+                    Location="https://project1.cle.hkust.edu.hk/"
                     index="1301"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://project1.cle.hkust.edu.hk/"
+                    Location="https://creativewriting.hkust.edu.hk/"
                     index="1302"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://creativewriting.hkust.edu.hk/"
+                    Location="https://fromwithin.hkust.edu.hk/"
                     index="1303"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://fromwithin.hkust.edu.hk/"
+                    Location="https://philsci.hkust.edu.hk/"
                     index="1304"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://philsci.hkust.edu.hk/"
+                    Location="https://sms3-dev.is-itsc.ust.hk/"
                     index="1305"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://sms3-dev.is-itsc.ust.hk/"
+                    Location="https://sms3-dev.is-itsc.ust.hk:8443/"
                     index="1306"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://sms3-dev.is-itsc.ust.hk:8443/"
+                    Location="https://sms3-dev.is-itsc.ust.hk:9000/"
                     index="1307"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://sms3-dev.is-itsc.ust.hk:9000/"
-                    index="1308"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://imin.cle.hkust.edu.hk/"
-                    index="1309"/>
+                    index="1308"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6886,6 +6882,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://alumcommons.hkust.edu.hk/"
                     index="9"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://dsms.hkust.edu.hk/"
+                    index="10"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
