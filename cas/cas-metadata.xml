@@ -5483,6 +5483,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://2025symposiumoftcm.hkust.edu.hk/"
                     index="29"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sengexe.hkust.edu.hk/"
+                    index="30"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6413,6 +6417,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://lbnx13.ust.hk/"
                     index="77"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://alumpre.hkust.edu.hk/"
+                    index="78"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
