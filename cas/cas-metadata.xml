@@ -5355,6 +5355,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://dbmcyber.hkust.edu.hk/"
                     index="1310"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://timetable.cle.hkust.edu.hk/"
+                    index="1311"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
