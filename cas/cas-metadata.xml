@@ -5677,6 +5677,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cwise.hkust.edu.hk/"
                     index="4"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://navigate.ust.hk/"
+                    index="5"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
