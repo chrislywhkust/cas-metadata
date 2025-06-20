@@ -5642,6 +5642,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://wip.aimpd.i234.me/"
                     index="27"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://ocz043.ust.hk/"
+                    index="28"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
