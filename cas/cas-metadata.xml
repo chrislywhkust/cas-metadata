@@ -5375,6 +5375,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cle-calendar.hkust.edu.hk/"
                     index="1315"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://timetable-uat.cle.hkust.edu.hk/"
+                    index="1316"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://timetable-dev.cle.hkust.edu.hk/"
+                    index="1317"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
