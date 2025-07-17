@@ -5395,6 +5395,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://video.hkust.edu.hk/"
                     index="1320"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sfq-survey.ust.hk/"
+                    index="1321"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
