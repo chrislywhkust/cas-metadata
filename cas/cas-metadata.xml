@@ -5539,6 +5539,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sengexe.hkust.edu.hk/"
                     index="30"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sa-tech.hkust.edu.hk/"
+                    index="31"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
