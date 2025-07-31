@@ -5411,6 +5411,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://obe.cle.hkust.edu.hk/"
                     index="1324"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://awards.hkust.edu.hk/"
+                    index="1325"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://travel-portal.hkust.edu.hk/"
+                    index="1326"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6509,6 +6517,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ISD-SRLab.hkust.edu.hk/"
                     index="79"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://bimgis-uat.ust.hk/"
+                    index="80"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
