@@ -5419,6 +5419,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://travel-portal.hkust.edu.hk/"
                     index="1326"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cle-imin.hkust.edu.hk/"
+                    index="1327"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hippo.cle.hkust.edu.hk/"
+                    index="1328"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://obe-uat.cle.hkust.edu.hk/"
+                    index="1329"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
