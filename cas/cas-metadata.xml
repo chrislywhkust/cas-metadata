@@ -5583,6 +5583,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ismnd2026.hkust.edu.hk/"
                     index="32"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://website-builder.hkust.edu.hk/"
+                    index="33"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://website-demo.hkust.edu.hk/"
+                    index="34"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
