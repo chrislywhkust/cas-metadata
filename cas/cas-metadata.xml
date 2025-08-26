@@ -5443,6 +5443,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://brand-guide.hkust.edu.hk/"
                     index="1332"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://catering_coupon.hkust.edu.hk/"
+                    index="1333"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5599,6 +5603,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://website-demo.hkust.edu.hk/"
                     index="34"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://dengkb.hkust.edu.hk/"
+                    index="35"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
