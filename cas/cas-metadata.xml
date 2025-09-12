@@ -5455,6 +5455,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ccss.hkust.edu.hk/"
                     index="1335"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://grading.cle.hkust.edu.hk/"
+                    index="1336"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lifsprod.hkust.edu.hk/"
+                    index="1337"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://lifsuat.hkust.edu.hk/"
+                    index="1338"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
