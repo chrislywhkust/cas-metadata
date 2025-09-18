@@ -5635,6 +5635,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://videochannel.ust.hk/"
                     index="37"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://xiiaba.hkust.edu.hk/"
+                    index="38"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
