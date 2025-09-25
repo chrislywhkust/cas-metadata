@@ -6601,6 +6601,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ssti.hkust.edu.hk/"
                     index="81"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://coastwin.hkust.ust.hk/"
+                    index="82"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
