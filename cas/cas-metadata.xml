@@ -6603,7 +6603,7 @@
                     index="81"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://coastwin.hkust.ust.hk/"
+                    Location="https://coastwin.hkust.edu.hk/"
                     index="82"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
