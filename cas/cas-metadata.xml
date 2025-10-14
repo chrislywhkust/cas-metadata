@@ -5647,6 +5647,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ustlfsci.hkust.edu.hk/"
                     index="40"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://amazingrace.hkust.edu.hk/"
+                    index="41"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
