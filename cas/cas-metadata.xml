@@ -5471,6 +5471,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ies.hkust.edu.hk/"
                     index="1339"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://fms.hkvu.hk/"
+                    index="1340"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
