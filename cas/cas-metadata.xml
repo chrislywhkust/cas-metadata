@@ -5475,6 +5475,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fms.hkvu.hk/"
                     index="1340"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://openlifesci-alliance.org/"
+                    index="1341"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
