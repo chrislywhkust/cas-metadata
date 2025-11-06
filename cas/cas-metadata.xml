@@ -5837,6 +5837,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://celab-dev.hkust.edu.hk/"
                     index="6"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://air4elderly.hkust.edu.hk/"
+                    index="7"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
