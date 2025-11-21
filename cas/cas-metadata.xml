@@ -5481,20 +5481,24 @@
                     index="1341"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://gcb-api.hkvu.hk/"
+                    Location="https://sengevent-dev.hkust.edu.hk/"
                     index="1342"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://sengevent-dev.hkust.edu.hk/"
+                    Location="https://adms.hkust.edu.hk/"
                     index="1343"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://adms.hkust.edu.hk/"
+                    Location="https://sengevent.hkust.edu.hk/"
                     index="1344"/>
             <AssertionConsumerService
                     Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://sengevent.hkust.edu.hk/"
+                    Location="https://psc.hkust.edu.hk/"
                     index="1345"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://library-prod.hkust.edu.hk/"
+                    index="1346"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5679,6 +5683,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://amazingrace.hkust.edu.hk/"
                     index="41"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://mscgmrm.org/"
+                    index="42"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
