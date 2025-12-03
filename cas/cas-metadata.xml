@@ -5503,6 +5503,22 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://register-dev.cle.hkust.edu.hk/"
                     index="1347"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://eform-uat01.cle.hkust.edu.hk/"
+                    index="1348"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://eform.cle.hkust.edu.hk/"
+                    index="1349"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://marking-uat.cle.hkust.edu.hk/"
+                    index="1350"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://marking.cle.hkust.edu.hk/"
+                    index="1351"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
