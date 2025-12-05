@@ -5519,6 +5519,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://marking.cle.hkust.edu.hk/"
                     index="1351"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://spm.ust.hk/"
+                    index="1352"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
