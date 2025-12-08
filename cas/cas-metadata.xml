@@ -5711,6 +5711,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://mscgmrm.org/"
                     index="42"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://35a.hkust.edu.hk/"
+                    index="43"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
