@@ -5519,6 +5519,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://spm.ust.hk/"
                     index="1351"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sfscp01.ust.hk/"
+                    index="1352"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sangforvdcclu.ust.hk/"
+                    index="1353"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
