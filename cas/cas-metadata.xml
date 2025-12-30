@@ -5527,6 +5527,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sangforvdcclu.ust.hk/"
                     index="1353"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ecoupon.ust.hk/"
+                    index="1354"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
