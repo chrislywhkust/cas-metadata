@@ -5531,6 +5531,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://register-uat.cle.hkust.edu.hk/"
                     index="1354"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://wss.ust.hk/"
+                    index="1355"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
