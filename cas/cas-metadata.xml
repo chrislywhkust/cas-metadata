@@ -5539,6 +5539,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cle-courses-dev.hkust.edu.hk/"
                     index="1356"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://library-uat.hkust.edu.hk/"
+                    index="1357"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
