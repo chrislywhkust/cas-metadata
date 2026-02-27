@@ -5918,6 +5918,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://rtg.hkust.edu.hk/"
                     index="30"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iascasd.hkust.edu.hk/"
+                    index="31"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5965,6 +5969,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://air4elderly.hkust.edu.hk/"
                     index="7"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://souvenirs.hkust.edu.hk/"
+                    index="8"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
