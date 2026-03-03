@@ -5779,6 +5779,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://talent-quest.hkust.edu.hk/"
                     index="51"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://upc.hk/"
+                    index="52"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://busybees.org.hk/"
+                    index="53"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
