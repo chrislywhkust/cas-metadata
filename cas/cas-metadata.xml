@@ -5981,6 +5981,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://souvenirs.hkust.edu.hk/"
                     index="8"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hkustdemo.omniwe.site/"
+                    index="9"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
