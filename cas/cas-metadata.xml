@@ -5787,6 +5787,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://busybees.org.hk/"
                     index="53"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://reg.ismnd2026.org/"
+                    index="54"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
