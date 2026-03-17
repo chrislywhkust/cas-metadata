@@ -5555,6 +5555,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://rbrevrt.hkust.edu.hk/"
                     index="1360"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://oma.hkust.edu.hk/"
+                    index="1361"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
