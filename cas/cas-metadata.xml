@@ -5803,6 +5803,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://logo-dev.hkust.edu.hk/"
                     index="56"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://logo-dev.hkust.edu.hk/"
+                    index="57"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
