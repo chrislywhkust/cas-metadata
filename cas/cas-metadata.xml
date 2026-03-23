@@ -6463,6 +6463,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iocadmin.ust.hk/"
                     index="110"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iasreg.ust.hk/"
+                    index="111"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
