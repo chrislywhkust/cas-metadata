@@ -5997,14 +5997,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://air4elderly.hkust.edu.hk/"
                     index="7"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://souvenirs.hkust.edu.hk/"
-                    index="8"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://hkustdemo.omniwe.site/"
-                    index="9"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -7302,6 +7294,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sengalum.hkust.edu.hk/"
                     index="13"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hkustdemo.omniwe.site/"
+                    index="14"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://souvenirs.hkust.edu.hk/"
+                    index="15"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
