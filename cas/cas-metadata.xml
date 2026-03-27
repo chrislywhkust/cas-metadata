@@ -5954,6 +5954,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iascasd.hkust.edu.hk/"
                     index="31"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://trainly-manage-buddy.lovable.app/"
+                    index="32"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
