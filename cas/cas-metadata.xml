@@ -5563,6 +5563,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cloud.math.ust.hk/"
                     index="1362"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://evcs.ust.hk/"
+                    index="1363"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5811,6 +5815,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://logo-dev.hkust.edu.hk/"
                     index="57"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://fwe.hkust.edu.hk/"
+                    index="58"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
