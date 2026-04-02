@@ -5567,6 +5567,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://evcs.ust.hk/"
                     index="1363"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://skl-crcc.hkust.edu.hk/"
+                    index="1364"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5819,6 +5823,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fwe.hkust.edu.hk/"
                     index="58"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ocrf.hkust.edu.hk/"
+                    index="59"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
