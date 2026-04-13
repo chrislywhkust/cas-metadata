@@ -5571,6 +5571,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://skl-crcc.hkust.edu.hk/"
                     index="1364"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://acme-dev.vm.st365.ust.hk/"
+                    index="1365"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://acme.ust.hk/"
+                    index="1366"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
