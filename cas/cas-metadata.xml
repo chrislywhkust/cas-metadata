@@ -5583,6 +5583,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://lbnx81.ust.hk/"
                     index="1367"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://oauth2.account.tencent.com/"
+                    index="1368"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
