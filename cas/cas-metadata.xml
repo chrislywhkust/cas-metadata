@@ -6865,6 +6865,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://isd.hkust.edu.hk/"
                     index="84"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://iaoc-dev.ust.hk/"
+                    index="85"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
