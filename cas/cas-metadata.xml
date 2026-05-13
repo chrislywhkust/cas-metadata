@@ -5843,6 +5843,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://emia2220-show.hkust.edu.hk/"
                     index="60"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://event-service.hkust.edu.hk/"
+                    index="61"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iau.hkust.edu.hk/"
+                    index="62"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
