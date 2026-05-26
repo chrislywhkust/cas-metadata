@@ -6010,6 +6010,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://10a-abfye.hkust.edu.hk/"
                     index="34"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iascfp.hkust.edu.hk/"
+                    index="35"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
