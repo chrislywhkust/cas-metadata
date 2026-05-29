@@ -5855,6 +5855,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iau.hkust.edu.hk/"
                     index="62"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://watanabegroup.hkust.edu.hk/"
+                    index="63"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
