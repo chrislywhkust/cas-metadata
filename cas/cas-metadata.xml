@@ -5587,6 +5587,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://grafana-idm.vm.st365.ust.hk/"
                     index="1368"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://shss-aiforum.hkust.edu.hk/"
+                    index="1369"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6531,6 +6535,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iasreg.ust.hk/"
                     index="111"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://celab.hkust.edu.hk/"
+                    index="112"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
