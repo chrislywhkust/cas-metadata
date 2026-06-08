@@ -5575,6 +5575,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://shss-aiforum.hkust.edu.hk/"
                     index="1365"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ecouponuat.ust.hk/"
+                    index="1366"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
