@@ -5579,6 +5579,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ecouponuat.ust.hk/"
                     index="1366"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://sklnsd.hkust.edu.hk/"
+                    index="1367"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6893,6 +6897,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://iaoc-dev.ust.hk/"
                     index="86"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://tickatlab-test.ust.hk/"
+                    index="87"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
