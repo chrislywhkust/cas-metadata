@@ -5591,6 +5591,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://sklnsd.hkust.edu.hk/"
                     index="1367"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://asda.hkust.edu.hk/"
+                    index="1368"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -5871,6 +5875,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://isdstudentprojects.ust.hk/"
                     index="65"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://cbsa.hkust.edu.hk/"
+                    index="66"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
