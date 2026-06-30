@@ -5599,6 +5599,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://ptz313.ust.hk/"
                     index="1369"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://gep.hkust.edu.hk/"
+                    index="1370"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
