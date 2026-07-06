@@ -5603,10 +5603,6 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://gep.hkust.edu.hk/"
                     index="1370"/>
-            <AssertionConsumerService
-                    Binding="https://www.apereo.org/cas/protocol/login"
-                    Location="https://csonews.ust.hk/"
-                    index="1371"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -7438,6 +7434,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://oauth2.account.tencent.com/"
                     index="16"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://csonews.ust.hk/"
+                    index="17"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
