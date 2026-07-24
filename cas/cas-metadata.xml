@@ -5607,6 +5607,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://dev.portal.hpc.ust.hk/"
                     index="1371"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://digitaldisplay.hkust.edu.hk/"
+                    index="1372"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
