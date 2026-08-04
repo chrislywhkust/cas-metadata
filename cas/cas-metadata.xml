@@ -5619,6 +5619,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cache-gba.hkust.edu.hk/"
                     index="1374"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://feedback-uat.cle.hkust.edu.hk/"
+                    index="1375"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
