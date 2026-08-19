@@ -5631,6 +5631,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://teaching-physics.hkust.edu.hk/"
                     index="1377"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://ihostabc.hkust.edu.hk/"
+                    index="1378"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
