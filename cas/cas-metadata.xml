@@ -6623,6 +6623,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://isdstdmgmt.ust.hk/"
                     index="114"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iotsensor-uat.ust.hk/"
+                    index="115"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
