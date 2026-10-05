@@ -5939,6 +5939,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://fundesign.hkust.edu.hk/"
                     index="67"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://rgcrs.hkust.edu.hk/"
+                    index="68"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -6651,6 +6655,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://cebooking.hkust.edu.hk/"
                     index="117"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="http://iics.hkust.edu.hk/"
+                    index="118"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
