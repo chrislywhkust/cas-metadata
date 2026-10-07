@@ -5943,6 +5943,14 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://rgcrs.hkust.edu.hk/"
                     index="68"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://wcupf2026.hkust.edu.hk/"
+                    index="69"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://wcupf2026.com/"
+                    index="70"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
