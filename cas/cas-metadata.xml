@@ -6667,6 +6667,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="http://iics.hkust.edu.hk/"
                     index="118"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://transcriptdb.cl3.ust.hk/"
+                    index="119"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
