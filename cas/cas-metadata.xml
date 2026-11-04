@@ -5667,6 +5667,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://mat.hkust.edu.hk/"
                     index="1386"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://survey.hkust.edu.hk/"
+                    index="1387"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
@@ -7053,6 +7057,18 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://labzero.hkust.edu.hk/"
                     index="87"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hseo-ai-portal-dev.ust.hk/"
+                    index="88"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hseo-ai-portal-uat.ust.hk/"
+                    index="89"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://hseo-ai-portal.ust.hk/"
+                    index="90"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
