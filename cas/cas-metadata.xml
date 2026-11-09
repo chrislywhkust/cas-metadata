@@ -5683,6 +5683,10 @@
                     Binding="https://www.apereo.org/cas/protocol/login"
                     Location="https://hseo-ai-portal.ust.hk/"
                     index="1390"/>
+            <AssertionConsumerService
+                    Binding="https://www.apereo.org/cas/protocol/login"
+                    Location="https://iasevents.hkust.edu.hk/"
+                    index="1391"/>
             <SingleLogoutService
                     Binding="https://www.apereo.org/cas/protocol/logout"
                     Location="urn:mace:shibboleth:profile:CAS:logout"/>
